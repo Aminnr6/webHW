@@ -60,3 +60,35 @@ img:hover{
     transition: 0.5s;
     cursor: pointer;
 }
+pre{
+    font: bold;
+    font-size: large;
+    color: #ffffff;
+    text-align: right;
+    margin-right: 0.94em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.range2{
+    color: #ffffff;
+    text-align: left;
+    margin-left: 0.94em;
+}
+input {
+    margin-top: 0em;
+    margin-left: auto;
+    width: 18.5em;
+}
+button{
+    margin-top: 0.94em;
+    border-color: #ffffff;
+    width: 3.41em;
+    height: 3.41em;
+    border-radius: 50%;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+button:hover{
+    border-color: #bebebe;
+    cursor: pointer;
+}
