@@ -46,3 +46,17 @@ img:hover{
     box-shadow: rgba(0, 0, 0, 0.158) 0.19em 0.19em 0.38em 0.31em;
     transition: 0.5s;
 }
+.name{
+    color: #ffffff;
+    text-shadow: #0000006e 0.19em 0.19em 0.19em;
+}
+.writer{
+    color: #666666;
+    font-size: smaller;
+    text-shadow: #0000006e 0.19em 0.19em 0.25em;
+}
+.writer:hover{
+    color: #2e2e2e;
+    transition: 0.5s;
+    cursor: pointer;
+}
