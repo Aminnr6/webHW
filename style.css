@@ -36,3 +36,13 @@ div:hover {
     margin-top: 0.5em;
     text-shadow: #2e2e2e60 0.19em 0.19em 0.19em;
 }
+img{
+    height: 12.50em;
+    width: 12.50em;
+    border-radius: 0.31em;
+    margin-top: 0.75em;
+}
+img:hover{
+    box-shadow: rgba(0, 0, 0, 0.158) 0.19em 0.19em 0.38em 0.31em;
+    transition: 0.5s;
+}
